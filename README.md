@@ -97,19 +97,7 @@ It integrates **Bright Data** (for scraping) and **Google Sheets** (for storage)
 - 🏢 **Competitor Analysis** → Track rivals’ ratings, reviews, and presence  
 - 💼 **Lead Generation** → Extract contact info & build prospect lists  
 - 🔬 **Business Intelligence** → Sentiment tracking & performance insights  
-- 🌍 **Location Analysis** → Assess local competition & expansion opportunities  
-
----
-
-## 📑 Data Output Fields
-
-| Field              | Description                | Example                                  |
-|--------------------|----------------------------|------------------------------------------|
-| **Name**           | Business name              | Joe's Pizza Restaurant 🍕                |
-| **Overall Rating** | Average customer rating    | 4.5 ⭐                                    |
-| **Reviews Count**  | Total reviews              | 247                                      |
-| **URL**            | Original Yelp business URL | https://www.yelp.com/biz/joes-pizza...  |
-| **Images/Videos**  | Media links                | https://s3-media1.fl.yelpcdn.com/...    |
+- 🌍 **Location Analysis** → Assess local competition & expansion opportunities
 
 ---
 
